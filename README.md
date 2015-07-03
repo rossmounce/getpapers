@@ -41,6 +41,7 @@ Options:
 ```
 
 By default, getpapers uses the EuropePMC API.
+Results are returned in order of relevance, most relevant first, least relevant last.
 
 ## Screenshot
 
